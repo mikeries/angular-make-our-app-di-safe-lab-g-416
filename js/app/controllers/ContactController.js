@@ -6,7 +6,6 @@ function ContactController(blah, blah2) {
 	}, 5000);
 }
 
-ContactController.$inject = ['$scope', '$timeout'];
 
 angular
 	.module('app')
